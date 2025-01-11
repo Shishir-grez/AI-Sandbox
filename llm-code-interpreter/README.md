@@ -13,7 +13,7 @@ Choose an execution environment:
 
 ## Setup
 
-1. Install Ollama and prefered LLM using this [guide](https://github.com/Shishir-grez/AI-Sandbox/tree/main/ollama.md).
+1. Install Ollama and prefered LLM using this [guide](https://github.com/Shishir-grez/AI-Sandbox/blob/main/Ollama.md).
 
 2. Run DockerFile 
    ```bash
